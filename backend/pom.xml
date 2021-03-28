@@ -13,7 +13,7 @@
 		<profile>
 			<id>dev</id>
 			<properties>
-				<db.host>192.168.41.129</db.host>
+				<db.host>192.168.31.84</db.host>
 				<db.user>root</db.user>
 				<db.pwd>root</db.pwd>
 			</properties>
